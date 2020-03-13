@@ -1,0 +1,19 @@
+{
+  "name": "bgsrcset.js",
+  "version": "1.0.0",
+  "description": "bgsrcset.js\r =========\r ---\r This javascript plugin is based on the magical [srcset spec] [1], and attempts to bring the same functionality to the more flexible CSS background image.",
+  "main": "bgsrcset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjipbv/jumba-bgsrcset.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjipbv/jumba-bgsrcset.js/issues"
+  },
+  "homepage": "https://github.com/tjipbv/jumba-bgsrcset.js#readme"
+}
